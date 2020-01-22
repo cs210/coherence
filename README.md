@@ -19,7 +19,7 @@ Yousef Hindy | yhindy@stanford.edu | <img src="https://i.imgur.com/c1n3cae.jpg" 
 Member | Hat | Technical Skills | Non-Technical Skills | Personal Traits | Desired Growth | Weaknesses
 --- | --- | --- | --- | --- | --- | ---
 Jessica | Green/Blue | Quantum Computation | Leadership, presentation skills | Logical, motivated, large-picture, detail-oriented, planner | UI/UX design, security | saying no, lack of Pareto-Principle
-Meltem | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN
+Meltem | White/Black | Quantum Information Theory | Written communication | Focused, hard-working, intuitive, warm | Hands-on experience with near-term QC | Occasional self-doubt 
 Mingyu (Q) | Blue/Black | Physics background, Experience in quantum simulations | Facilitate discussions | Confident, objective, straightforward | Build more quantum computing experience, write codes more efficiently | Meticulousness
 Sreeram | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN
 Yousef | Black/Blue | AI, Quantum Mechanics, Probability, Python | Product Management, Leadership | Calm, focused, creative, humorous, light-hearted  | Communication, Leadership, Software Engineering Best Principles | Easiliy distracted by new ideas

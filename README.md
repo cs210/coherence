@@ -20,7 +20,7 @@ Jessica | Green/Blue | Quantum Computation | Leadership, presentation skills | L
 Meltem | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN
 Mingyu (Q) | Blue/Black | Physics background, Experience in quantum simulations | Facilitate discussions | Confident, objective, straightforward | Build more quantum computing experience, write codes more efficiently | Meticulousness
 Sreeram | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN
-Yousef | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN
+Yousef | Black/Blue | AI, Quantum Mechanics, Probability, Python | Product Management, Leadership | Calm, focused, creative, humorous, light-hearted  | Communication, Leadership, Software Engineering Best Principles | Easiliy distracted by new ideas
 
 # Team Communication:
 1. Email us at [Coming Soon!](google.com)

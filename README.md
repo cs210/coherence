@@ -10,7 +10,7 @@ Jessica Pointing | pointing@stanford.edu | <img src="https://i.imgur.com/OjaDlnK
 Meltem Tolunay | etolunay@stanford.edu | <img src="https://i.imgur.com/qpkakAD.jpg" alt="Praty Sharma" width="157.5" height="157.5">
 Mingyu (Q) Kang | horray@stanford.edu | <img src="https://i.imgur.com/oKfnrXc.jpg" alt="John Kamalu" width="157.5" height="201">
 Sreeram Vankatarao  | sreeramv@stanford.edu | <img src="https://i.imgur.com/2RB416X.jpg" alt="Sarah Tollman" width="157.5" height="164.4">
-Yousef Hindy | yhindy@stanford.edu | <img src="https://imgur.com/a/ZqitjUk.jpg" alt="Yousef Hindy" width="157.5" height="210">
+Yousef Hindy | yhindy@stanford.edu | <img src="https://i.imgur.com/c1n3cae.jpg" alt="Yousef Hindy" width="157.5" height="210">
 
 # Team Skills Matrix:
 

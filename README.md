@@ -18,7 +18,7 @@ Member | Hat | Technical Skills | Non-Technical Skills | Personal Traits | Desir
 --- | --- | --- | --- | --- | --- | ---
 Jessica | Green/Blue | Quantum Computation | Leadership, presentation skills | Logical, motivated, large-picture, detail-oriented, planner | UI/UX design, security | saying no, lack of Pareto-Principle
 Meltem | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN
-Mingyu (Q) | Blue/Black | Physical background, Experience in quantum simulations | Facilitate discussions | Confident, objective, straightforward | Build more quantum computing experience, write codes more efficiently | Meticulousness
+Mingyu (Q) | Blue/Black | Physics background, Experience in quantum simulations | Facilitate discussions | Confident, objective, straightforward | Build more quantum computing experience, write codes more efficiently | Meticulousness
 Sreeram | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN
 Yousef | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN
 

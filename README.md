@@ -9,7 +9,7 @@ Theme Song:
 Member | Email | Photo
 --- | --- | ---
 Jessica Pointing | pointing@stanford.edu | <img src="https://i.imgur.com/zjr35qy.jpg" alt="Jessica Pointing" width="200">
-Meltem Tolunay | etolunay@stanford.edu | <img src="https://i.imgur.com/2jg0GrY.jpg" alt="Meltem Tolunay" width="200">
+Meltem Tolunay | meltem.tolunay@stanford.edu | <img src="https://i.imgur.com/2jg0GrY.jpg" alt="Meltem Tolunay" width="200">
 Mingyu (Q) Kang | mingyu.kang@stanford.edu | <img src="https://i.imgur.com/oKfnrXc.jpg" alt="Mingyu (Q) Kang" width="200">
 Sreeram Vankatarao  | sreeramv@stanford.edu | <img src="https://i.imgur.com/2RB416X.jpg" alt="Sreeram Vankatarao" width="200">
 Yousef Hindy | yhindy@stanford.edu | <img src="https://i.imgur.com/c1n3cae.jpg" alt="Yousef Hindy" width="200">

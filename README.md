@@ -6,7 +6,7 @@ Theme Song:
 # Team Members
 Member | Email | Photo
 --- | --- | ---
-Jessica Pointing | pointing@stanford.edu | <img src="https://i.imgur.com/zjr35qy.jpg" alt="Jessica Pointing" width="157.5" height="157.5">
+Jessica Pointing | pointing@stanford.edu | <img src="https://i.imgur.com/zjr35qy.jpg" alt="Jessica Pointing">
 Meltem Tolunay | etolunay@stanford.edu | <img src="https://i.imgur.com/2jg0GrY.jpg" alt="Meltem Tolunay" width="157.5" height="157.5">
 Mingyu (Q) Kang | horray@stanford.edu | <img src="https://i.imgur.com/oKfnrXc.jpg" alt="Mingyu (Q) Kang" width="157.5" height="201">
 Sreeram Vankatarao  | sreeramv@stanford.edu | <img src="https://i.imgur.com/2RB416X.jpg" alt="Sreeram Vankatarao" width="157.5" height="164.4">

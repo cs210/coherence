@@ -8,7 +8,7 @@ Member | Email | Photo
 --- | --- | ---
 Jessica Pointing | pointing@stanford.edu | <img src="https://i.imgur.com/zjr35qy.jpg" alt="Jessica Pointing" width="200">
 Meltem Tolunay | etolunay@stanford.edu | <img src="https://i.imgur.com/2jg0GrY.jpg" alt="Meltem Tolunay" width="200">
-Mingyu (Q) Kang | horray@stanford.edu | <img src="https://i.imgur.com/oKfnrXc.jpg" alt="Mingyu (Q) Kang" width="200">
+Mingyu (Q) Kang | mingyu.kang@stanford.edu | <img src="https://i.imgur.com/oKfnrXc.jpg" alt="Mingyu (Q) Kang" width="200">
 Sreeram Vankatarao  | sreeramv@stanford.edu | <img src="https://i.imgur.com/2RB416X.jpg" alt="Sreeram Vankatarao" width="200">
 Yousef Hindy | yhindy@stanford.edu | <img src="https://i.imgur.com/c1n3cae.jpg" alt="Yousef Hindy" width="200">
 
@@ -18,7 +18,7 @@ Member | Hat | Technical Skills | Non-Technical Skills | Personal Traits | Desir
 --- | --- | --- | --- | --- | --- | ---
 Jessica | Green/Blue | Quantum Computation | Leadership, presentation skills | Logical, motivated, large-picture, detail-oriented, planner | UI/UX design, security | saying no, lack of Pareto-Principle
 Meltem | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN
-Mingyu (Q) | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN
+Mingyu (Q) | Blue/Black | Physical background, Experience in quantum simulations | Facilitate discussions | Confident, objective, straightforward | Build more quantum computing experience, write codes more efficiently | Meticulousness
 Sreeram | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN
 Yousef | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN
 

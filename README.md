@@ -1,3 +1,3 @@
 # Coherence
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
+[![Team Song](http://img.youtube.com/vi/o_Ay_iDRAbc/0.jpg)](http://www.youtube.com/watch?v=o_Ay_iDRAbc "Hans Zimmer - Mountains (Interstellar Soundtrack)")

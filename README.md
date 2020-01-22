@@ -16,7 +16,7 @@ Yousef Hindy | yhindy@stanford.edu | <img src="https://i.imgur.com/c1n3cae.jpg" 
 
 Member | Hat | Technical Skills | Non-Technical Skills | Personal Traits | Desired Growth | Weaknesses
 --- | --- | --- | --- | --- | --- | ---
-Jessica | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN
+Jessica | Green/Blue | Quantum Computation | Leadership, presentation skills | Logical, motivated, large-picture, detail-oriented, planner | UI/UX design, security | Non-confrontational, lack of Pareto-Principle
 Meltem | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN
 Mingyu (Q) | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN
 Sreeram | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN

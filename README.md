@@ -1,6 +1,6 @@
 # Coherence
 
-Theme Song:
+Theme Song:  
 [![Team Song](http://img.youtube.com/vi/o_Ay_iDRAbc/0.jpg)](http://www.youtube.com/watch?v=o_Ay_iDRAbc "Hans Zimmer - Mountains (Interstellar Soundtrack)")
 
 # Team Members
@@ -25,8 +25,8 @@ Yousef | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | T
 # Team Communication:
 1. Email us at [emails@cs210hella.mailclark.ai](emails@cs210hella.mailclark.ai)
 
-2. Slack: [cs210hella.slack.com](https://cs210hella.slack.com) (sign up [here](https://cs210hella.slack.com/signup)).
+2. Slack: [cs210hella.slack.com](https://coherence-group.slack.com) (sign up [here](https://coherence-group.slack.com/signup)).
 
-3. Documentation: [Github Wiki](https://github.com/cs210/Hella/wiki).
+3. Documentation: [Github Wiki](https://github.com/cs210/coherence/wiki).
 
 4. [Google Calendar](https://calendar.google.com/calendar/embed?src=stanford.edu_rsg43to2epthvtkim72t0des9o%40group.calendar.google.com&ctz=America%2FLos_Angeles)

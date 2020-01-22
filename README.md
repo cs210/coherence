@@ -8,7 +8,7 @@ Member | Email | Photo
 --- | --- | ---
 Jessica Pointing | pointing@stanford.edu | <img src="https://i.imgur.com/OjaDlnK.jpg" alt="Karan Singhal" width="157.5" height="157.5">
 Meltem Tolunay | etolunay@stanford.edu | <img src="https://i.imgur.com/qpkakAD.jpg" alt="Praty Sharma" width="157.5" height="157.5">
-Mingyu (Q) Kang | horray@stanford.edu | <img src="https://i.imgur.com/pebY6bg.jpg" alt="John Kamalu" width="157.5" height="201">
+Mingyu (Q) Kang | horray@stanford.edu | <img src="https://i.imgur.com/oKfnrXc.jpg" alt="John Kamalu" width="157.5" height="201">
 Sreeram Vankatarao  | sreeramv@stanford.edu | <img src="https://i.imgur.com/2RB416X.jpg" alt="Sarah Tollman" width="157.5" height="164.4">
 Yousef Hindy | yhindy@stanford.edu | <img src="https://i.imgur.com/y6WLV1M.jpg" alt="Alan Flores-Lopez" width="157.5" height="210">
 

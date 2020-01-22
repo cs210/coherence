@@ -6,11 +6,11 @@ Theme Song:
 # Team Members
 Member | Email | Photo
 --- | --- | ---
-Jessica Pointing | pointing@stanford.edu | <img src="https://i.imgur.com/zjr35qy.jpg" alt="Jessica Pointing">
-Meltem Tolunay | etolunay@stanford.edu | <img src="https://i.imgur.com/2jg0GrY.jpg" alt="Meltem Tolunay">
-Mingyu (Q) Kang | horray@stanford.edu | <img src="https://i.imgur.com/oKfnrXc.jpg" alt="Mingyu (Q) Kang">
-Sreeram Vankatarao  | sreeramv@stanford.edu | <img src="https://i.imgur.com/2RB416X.jpg" alt="Sreeram Vankatarao">
-Yousef Hindy | yhindy@stanford.edu | <img src="https://i.imgur.com/c1n3cae.jpg" alt="Yousef Hindy">
+Jessica Pointing | pointing@stanford.edu | <img src="https://i.imgur.com/zjr35qy.jpg" alt="Jessica Pointing" style="height:50%;">
+Meltem Tolunay | etolunay@stanford.edu | <img src="https://i.imgur.com/2jg0GrY.jpg" alt="Meltem Tolunay" style="height:50%;">
+Mingyu (Q) Kang | horray@stanford.edu | <img src="https://i.imgur.com/oKfnrXc.jpg" alt="Mingyu (Q) Kang" style="height:50%;">
+Sreeram Vankatarao  | sreeramv@stanford.edu | <img src="https://i.imgur.com/2RB416X.jpg" alt="Sreeram Vankatarao" style="height:50%;">
+Yousef Hindy | yhindy@stanford.edu | <img src="https://i.imgur.com/c1n3cae.jpg" alt="Yousef Hindy" style="height:50%;">
 
 # Team Skills Matrix:
 

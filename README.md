@@ -6,10 +6,10 @@ Theme Song:
 # Team Members
 Member | Email | Photo
 --- | --- | ---
-Jessica Pointing | pointing@stanford.edu | <img src="https://drive.google.com/file/d/1jV0wcSRYkImTSwI752QvIeGjyQcYn6Oq/view?usp=sharing" alt="Karan Singhal" width="157.5" height="157.5">
-Meltem Tolunay | etolunay@stanford.edu | <img src="https://i.imgur.com/2jg0GrY.jpg" alt="Praty Sharma" width="157.5" height="157.5">
-Mingyu (Q) Kang | horray@stanford.edu | <img src="https://i.imgur.com/oKfnrXc.jpg" alt="John Kamalu" width="157.5" height="201">
-Sreeram Vankatarao  | sreeramv@stanford.edu | <img src="https://i.imgur.com/2RB416X.jpg" alt="Sarah Tollman" width="157.5" height="164.4">
+Jessica Pointing | pointing@stanford.edu | <img src="https://i.imgur.com/CrXSSiF.jpg" alt="Jessica Pointing" width="157.5" height="157.5">
+Meltem Tolunay | etolunay@stanford.edu | <img src="https://i.imgur.com/2jg0GrY.jpg" alt="Meltem Tolunay" width="157.5" height="157.5">
+Mingyu (Q) Kang | horray@stanford.edu | <img src="https://i.imgur.com/oKfnrXc.jpg" alt="Mingyu (Q) Kang" width="157.5" height="201">
+Sreeram Vankatarao  | sreeramv@stanford.edu | <img src="https://i.imgur.com/2RB416X.jpg" alt="Sreeram Vankatarao" width="157.5" height="164.4">
 Yousef Hindy | yhindy@stanford.edu | <img src="https://i.imgur.com/c1n3cae.jpg" alt="Yousef Hindy" width="157.5" height="210">
 
 # Team Skills Matrix:

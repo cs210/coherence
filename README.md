@@ -21,7 +21,7 @@ Member | Hat | Technical Skills | Non-Technical Skills | Personal Traits | Desir
 Jessica | Green/Blue | Quantum Computation | Leadership, presentation skills | Logical, motivated, large-picture, detail-oriented, planner | UI/UX design, security | saying no, lack of Pareto-Principle
 Meltem | White/Black | Quantum Information Theory | Written communication | Focused, hard-working, intuitive, warm | Hands-on experience with near-term QC | Occasional self-doubt 
 Mingyu (Q) | Blue/Black | Physics background, Experience in quantum simulations | Facilitate discussions | Confident, objective, straightforward | Build more quantum computing experience, write codes more efficiently | Meticulousness
-Sreeram | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN | TODO:FILLIN
+Sreeram | Green/Blue | AI, Deep Learning, NLP, Python | Leadership, Oral presentation skills | Persistent, Detail-oriented, Open-minded, Optimistic | Understanding and experience in quantum computing and programming | Indecisive, not looking at big picture
 Yousef | Black/Blue | AI, Quantum Mechanics, Probability, Python | Product Management, Leadership | Calm, focused, creative, humorous, light-hearted  | Communication, Leadership, Software Engineering Best Principles | Easiliy distracted by new ideas
 
 # Team Communication:

@@ -1,5 +1,7 @@
 # Coherence
 
+<img src="https://imgur.com/yFNKw4h.png" alt="logo" width=300>
+
 Coherence is tackling some of the biggest problems in bringing quantum computers into the realm of reality!
 
 Theme Song:  

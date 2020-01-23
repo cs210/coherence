@@ -25,10 +25,10 @@ Sreeram | Green/Blue | AI, Deep Learning, NLP, Python | Leadership, Oral present
 Yousef | Black/Blue | AI, Quantum Mechanics, Probability, Python | Product Management, Leadership | Calm, focused, creative, humorous, light-hearted  | Communication, Leadership, Software Engineering Best Principles | Easiliy distracted by new ideas
 
 # Team Communication:
-1. Email us at [Coming Soon!](google.com)
+1. Email us at [coherence@lists.stanford.edu](mailto:coherence@lists.stanford.edu)
 
-2. Slack: [coherence-group.slack.com](https://coherence-group.slack.com) (sign up [here](https://coherence-group.slack.com/signup)).
+2. Slack: [coherence-group.slack.com](https://coherence-group.slack.com) (sign up [here](https://coherence-group.slack.com/signup))
 
-3. Documentation: [Github Wiki](https://github.com/cs210/coherence/wiki).
+3. Documentation: [Github Wiki](https://github.com/cs210/coherence/wiki)
 
 4. Coming Soon! [Google Calendar](https://calendar.google.com/calendar/embed?src=stanford.edu_rsg43to2epthvtkim72t0des9o%40group.calendar.google.com&ctz=America%2FLos_Angeles)

@@ -31,6 +31,8 @@ Yousef | Black/Blue | AI, Quantum Mechanics, Probability, Python | Product Manag
 
 2. Slack: [coherence-group.slack.com](https://coherence-group.slack.com) (sign up [here](https://coherence-group.slack.com/signup))
 
-3. Documentation: [Github Wiki](https://github.com/cs210/coherence/wiki)
+3. [Github Wiki](https://github.com/cs210/coherence/wiki)
 
-4. Coming Soon! [Google Calendar](https://calendar.google.com/calendar/embed?src=stanford.edu_rsg43to2epthvtkim72t0des9o%40group.calendar.google.com&ctz=America%2FLos_Angeles)
+4. Documentation: [Google Doc](https://docs.google.com/document/d/1F1L5XH7kWJwQrzcFn0e-tv6PC6LZAL-uTFH2JTGIqTE/edit#heading=h.vcr61f6m6ust)
+
+5. Coming Soon! [Google Calendar](https://calendar.google.com/calendar/embed?src=stanford.edu_rsg43to2epthvtkim72t0des9o%40group.calendar.google.com&ctz=America%2FLos_Angeles)
